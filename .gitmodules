@@ -1,9 +1,9 @@
 [submodule "kali_core_emulator"]
-	path = kali_core_emulator
-	url = ./kali_core_emulator
+	path = ./kali_core_emulator
+	url = https://github.com/zombiegirlcz/kali_core_emulator.git
 [submodule "kali_ai_assistant"]
-	path = kali_ai_assistant
-	url = ./kali_ai_assistant
+	path = ./kali_ai_assistant
+	url = https://github.com/zombiegirlcz/kali_ai_assistant.git
 [submodule "kali_GUI"]
-	path = kali_GUI
-	url = ./kali_GUI
+	path = ./kali_GUI
+	url = https://github.com/zombiegirlcz/kali_GUI.git
