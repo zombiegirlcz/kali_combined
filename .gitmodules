@@ -1,0 +1,9 @@
+[submodule "kali_core_emulator"]
+	path = kali_core_emulator
+	url = ./kali_core_emulator
+[submodule "kali_ai_assistant"]
+	path = kali_ai_assistant
+	url = ./kali_ai_assistant
+[submodule "kali_GUI"]
+	path = kali_GUI
+	url = ./kali_GUI
