@@ -5,5 +5,5 @@
 	path = ./kali_ai_assistant
 	url = https://github.com/zombiegirlcz/kali_ai_assistant.git
 [submodule "kali_GUI"]
-	path = ./kali_GUI
+	path = kali_GUI
 	url = https://github.com/zombiegirlcz/kali_GUI.git
